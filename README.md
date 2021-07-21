@@ -20,7 +20,6 @@
 <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v2.png" height="50" width="50"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="50" width="50"/>
 <img align="center" src="https://img.icons8.com/color/50/000000/developer--v2.png" height="50" width="50"/>
-<img align="center" src="https://user-images.githubusercontent.com/57565734/126314587-51f56faf-886f-44f2-951f-400b52ad0641.png" height="50" width="50"/> 
 <img align="center" src="https://user-images.githubusercontent.com/57565734/126313224-3c16bda3-3f05-4007-8815-badd00722a3b.png" height="50" width="50"/> 
 <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="50" width="50"/>
 <img align="center" src="https://user-images.githubusercontent.com/57565734/126313567-025a5973-1091-4712-b0cf-c1b397c7dbce.png" height="50" width="50"/> 
@@ -47,7 +46,3 @@
 <a href="https://github.com/shivangi2174/shivangi2174">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangi2174&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shivangi's GitHub Stats" />
 </a>
-<a href="https://github.com/shivangi2174/shivangi2174">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivangi2174&repo=github-readme-stats&show_owner=true" />
-</a>
- 
